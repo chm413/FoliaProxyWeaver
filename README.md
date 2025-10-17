@@ -1,0 +1,2 @@
+# FoliaProxyWeaver
+在folia上通过frp的protocol协议确定真实IP
